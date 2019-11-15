@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apcera/gssapi"
+	"github.com/dreampuf/gssapi"
 )
 
 func TestAcquireCredential(t *testing.T) {
